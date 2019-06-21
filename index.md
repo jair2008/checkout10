@@ -1,6 +1,6 @@
 <h1>Chekout 10<h1>
 <h2>RAMANATHAN, JAI [29007016058908],The following items are checked out:(<a href="https://drive.google.com/file/d/1XDTAkf8dCv11Ew81EYLgAE6gK5kNwnqX/view?usp=sharing">pdf</a>)(<a href="https://drive.google.com/file/d/1bv2QCBYfW6KeWs2BjLQ770SvwOPwqHOU/view?usp=sharing">pdf</a>)
-<table border="1">
+<table border="5">
 <tbody>
 <tr>
 <th>Title</th>
